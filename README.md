@@ -16,7 +16,7 @@ If you have a working go installation on a Unix-like OS:
 
 > ```go get github.com/hotei/findTags```
 
-That will copy github.com/hotei/statdata to the first entry of your $GOPATH
+That will copy github.com/hotei/findTags to the first entry of your $GOPATH
 
 or if go is not installed yet :
 
@@ -37,7 +37,6 @@ findTags.go    22: "8888",
 findTags.go    23: "MagicNumber",
 findTags.go    24: "BUG(",
 findTags.go    25: "TODO(",
-findTags.go    28: // hasTag is true if line is tagged as a bug or "8888 => needs attention"
 ```
 
 ### Limitations

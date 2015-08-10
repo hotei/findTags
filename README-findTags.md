@@ -16,7 +16,7 @@ If you have a working go installation on a Unix-like OS:
 
 > ```go get github.com/hotei/findTags```
 
-That will copy github.com/hotei/statdata to the first entry of your $GOPATH
+That will copy github.com/hotei/findTags to the first entry of your $GOPATH
 
 or if go is not installed yet :
 
